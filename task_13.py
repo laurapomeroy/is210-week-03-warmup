@@ -12,3 +12,7 @@
 """
 
 import task_12
+
+print DECVAL == FLOATVAL
+
+print DECVAL != FLOATVAL
