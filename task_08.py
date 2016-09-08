@@ -18,3 +18,7 @@ NERVOUS_AS = """
 
 
 """
+
+NERVOUS_AS = NERVOUS_AS.strip()
+print 'print'
+print NERVOUS_AS.rstrip(","" ""/")
